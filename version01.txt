@@ -1,8 +1,11 @@
 This is the first feature of our application.
 
+<<<<<<< HEAD
 This is the bug fix developmemt branch.
 
 This is a code with added mistakes.
 
 Mistakes, Mistakes and Mistakes.
 
+=======
+>>>>>>> parent of 384947a (Added feature2 in development branch)
