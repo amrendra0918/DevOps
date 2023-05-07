@@ -1,3 +1,6 @@
 This is the first feature of our application.
 
 This is the bug fix developmemt branch.
+
+This is a code with added mistakes.
+
